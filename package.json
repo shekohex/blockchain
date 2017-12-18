@@ -1,0 +1,29 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Simple Block Chain Mechanism in Typescript for Learning Purpose",
+  "main": "./dist/bootstrap.js",
+  "scripts": {
+    "start": "ts-node ./src/bootstrap.ts",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shekohex/blockchain.git"
+  },
+  "keywords": [
+    "blockchain",
+    "typescript",
+    "learning"
+  ],
+  "author": "Shady Khalifa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shekohex/blockchain/issues"
+  },
+  "homepage": "https://github.com/shekohex/blockchain#readme",
+  "devDependencies": {
+    "@types/node": "^8.5.1",
+    "ts-node": "^4.0.2",
+    "typescript": "^2.6.2"
+  }
+}
