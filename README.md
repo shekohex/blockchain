@@ -1,5 +1,7 @@
 # Blockchain
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/shekohex/blockchain.svg)](https://greenkeeper.io/)
+
 Simple Block Chain Mechanism in Typescript for Learning Purpose and to demonstrate the basics of blockchains.
 This is by no means a complete implementation and it is by no means secure, it's just for learing the concept of Block Chain
 
