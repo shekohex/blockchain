@@ -20,6 +20,8 @@ npm run
 
 learn more about crepto in nodejs used in this project [here](https://nodejs.org/api/crypto.html#crypto_class_hash)
 
+another copy of this Project coded in Dart [gist](https://gist.github.com/shekohex/3aef759074ad9fcb31fe0f772c8f8fb4)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
