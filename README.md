@@ -20,7 +20,10 @@ npm run
 
 learn more about crepto in nodejs used in this project [here](https://nodejs.org/api/crypto.html#crypto_class_hash)
 
-another copy of this Project coded in Dart [gist](https://gist.github.com/shekohex/3aef759074ad9fcb31fe0f772c8f8fb4)
+another copy of this Project coded
+in Dart: [gist](https://gist.github.com/shekohex/3aef759074ad9fcb31fe0f772c8f8fb4)
+in Go: [gist](https://gist.github.com/shekohex/9da2c116ca2a1209c5851f955bd24a6c)
+
 
 ## License
 
