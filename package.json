@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/shekohex/blockchain#readme",
   "devDependencies": {
-    "@types/node": "^11.9.0",
+    "@types/node": "^12.11.5",
     "ts-node": "^7.0.0",
     "typescript": "^2.6.2"
   }
